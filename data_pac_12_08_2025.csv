@@ -1,0 +1,492 @@
+"unique_id","gender","age","home_pc","education","work_status","living_children","age_group","driving_license","car_household_bin","car_access","sl_card","cycle_confidence","peer_commute","peer_commute_bin","commute_lenght_bin","bike_frequency_bin","q10_easy","q11_live_life_as_want","q12_able_to_do_activities","q13_satisfactory_access","lat","lon"
+1819,1,43,11264,1,"Employed",0,"30_59",1,1,"Own",0,"In areas with high traffic, without separated bike lane",2,1,1,1,4,4,4,4,59.3226326,18.0069155
+1805,0,38,12152,1,"Employed",1,"30_59",0,1,"Other access",0,"In areas with low traffic, without separated bike lane",1,1,0,1,4,4,4,4,59.2939681,18.115711
+1791,1,38,17238,0,"Employed",1,"30_59",1,1,"Other access",0,"In areas with high traffic, without separated bike lane",3,1,0,1,4,4,4,4,59.3571741,17.9701651
+1785,1,45,11734,1,"Employed",1,"30_59",1,0,"Other access",0,"In areas with high traffic, without separated bike lane",0,0,0,1,4,5,5,5,59.3158653,18.0343213
+1779,1,36,12150,1,"Employed",0,"30_59",1,0,"No",0,"In areas with high traffic, without separated bike lane",4,1,0,1,5,5,4,5,59.2956668,18.11203
+1752,1,55,12654,0,"Employed",1,"30_59",1,1,"Other access",0,"In areas with low traffic, without separated bike lane",1,1,0,1,4,4,2,4,59.3068606,17.9866275
+1750,1,34,16232,1,"Employed",1,"30_59",1,1,"Own",0,"In areas with high traffic, without separated bike lane",2,1,0,1,4,4,4,4,59.3057932,17.9976383
+1740,1,28,11629,1,"Employed",0,"0_29",0,0,"No",0,"In areas with low traffic, without separated bike lane",2,1,0,1,4,4,2,5,59.3149,18.08462
+1736,1,47,17063,1,"Employed",1,"30_59",1,0,"No",0,"In areas with high traffic, without separated bike lane",1,1,0,1,4,4,4,4,59.3812708,18.0080734
+1727,0,32,11766,1,"Employed",0,"30_59",1,1,"Own",0,"In areas with high traffic, without separated bike lane",2,1,0,1,5,5,5,5,59.3160232,18.0136192
+1726,1,26,18250,1,"Student",0,"0_29",1,0,"No",0,"In areas with low traffic, without separated bike lane",3,1,0,1,5,5,5,5,59.3979951,18.0245611
+1718,0,26,11230,1,"Employed",0,"0_29",0,0,"No",0,"In areas with high traffic, without separated bike lane",2,1,1,1,3,3,3,3,59.3304907,18.0364268
+1716,1,52,14130,1,"Employed",1,"30_59",1,1,"Other access",0,"In areas with high traffic, without separated bike lane",2,1,0,1,4,4,3,3,59.2484001,17.9703108
+1696,0,38,13132,1,"Employed",0,"30_59",1,1,"Own",0,"In areas with low traffic, without separated bike lane",1,1,0,1,5,5,5,5,59.3108546,18.114511
+1694,0,27,11646,1,"Employed",0,"0_29",1,0,"No",0,"In areas with low traffic, without separated bike lane",2,1,0,1,4,5,5,2,59.3178476,18.0724147
+1692,0,33,12574,1,"Employed",0,"30_59",1,0,"Other access",0,"In areas with low traffic, without separated bike lane",2,1,0,1,2,3,3,3,59.2835933,18.0399931
+1678,1,40,13246,1,"Employed",1,"30_59",1,1,"Other access",0,"In areas with high traffic, without separated bike lane",1,1,1,1,2,4,3,3,59.3041558,18.2684785
+1640,0,35,11327,1,"Employed",0,"30_59",1,0,"No",0,"In areas with low traffic, without separated bike lane",1,1,0,1,5,5,2,2,59.3432829,18.0486419
+1606,1,53,12152,1,"Employed",0,"30_59",1,1,"Own",0,"In areas with high traffic, without separated bike lane",1,1,0,1,5,5,5,5,59.2939681,18.115711
+1600,1,50,11254,1,"Employed",0,"30_59",1,0,"No",0,"In areas with high traffic, without separated bike lane",4,1,0,1,4,5,4,5,59.3311677,17.9969896
+1596,1,56,19270,1,"Employed",1,"30_59",1,1,"Other access",0,"In areas with high traffic, without separated bike lane",0,0,0,1,4,5,4,5,59.4529887,17.9198626
+1583,0,27,11260,1,"Student",0,"0_29",0,0,"No",1,"In areas with low traffic, without separated bike lane",0,0,0,0,1,1,1,1,59.32638,18.01822
+1578,0,21,16838,0,"Student",0,"0_29",1,0,"No",0,"In areas with high traffic, without separated bike lane",0,0,1,1,4,4,4,4,59.3407105,17.9262742
+1525,0,26,11266,1,"Employed",0,"0_29",1,0,"Other access",0,"In areas with high traffic, without separated bike lane",3,1,0,1,4,5,4,4,59.3208232,17.9852404
+1505,1,47,12863,1,"Employed",1,"30_59",1,1,"Other access",0,"In areas with high traffic, without separated bike lane",4,1,0,1,5,5,4,4,59.2589169,18.1267314
+1493,0,57,12638,1,"Employed",1,"30_59",1,1,"Other access",0,"In areas with low traffic, without separated bike lane",1,1,1,1,4,4,4,4,59.2940274,17.9926309
+1485,0,33,12057,1,"Employed",0,"30_59",1,0,"No",0,"In areas with high traffic, without separated bike lane",1,1,0,1,4,4,4,5,59.2972209,18.0430012
+1481,0,50,11215,1,"Employed",1,"30_59",1,1,"Other access",0,"In areas with high traffic, without separated bike lane",1,1,0,1,4,4,4,4,59.3388778,18.0032669
+1457,1,43,16343,1,"Employed",1,"30_59",1,1,"Own",0,"In areas with high traffic, without separated bike lane",1,1,0,1,4,5,2,2,59.3759603,17.9169079
+1453,1,32,12148,1,"Employed",1,"30_59",0,0,"No",0,"In areas with high traffic, without separated bike lane",4,1,1,1,5,5,5,5,59.2933682,18.1012412
+1438,1,51,12635,0,"Employed",0,"30_59",1,1,"Other access",0,"In areas with high traffic, without separated bike lane",1,1,1,1,3,4,2,2,59.3001854,18.0086922
+1436,1,38,19134,1,"Employed",1,"30_59",1,1,"Own",1,"In areas with low traffic, without separated bike lane",2,1,1,0,4,4,3,4,59.4239219,17.9431161
+1434,1,58,11129,1,"Employed",1,"30_59",1,0,"Other access",0,"In areas with high traffic, without separated bike lane",2,1,0,1,5,5,5,5,59.3241927,18.0709267
+1426,1,25,11417,1,"Student",0,"0_29",0,0,"No",0,"In areas with high traffic, without separated bike lane",3,1,0,1,5,5,4,4,59.3697011,18.0634601
+1421,1,19,11419,0,"Student",0,"0_29",1,0,"No",0,"In areas with low traffic, without separated bike lane",1,1,0,1,4,3,3,3,59.3564052,18.0572821
+1411,1,31,11663,1,"Employed",0,"30_59",1,0,"No",0,"On separated bike paths",3,1,0,1,4,4,4,4,59.3088038,18.0776127
+1403,1,43,18356,1,"Employed",1,"30_59",1,1,"Other access",0,"In areas with high traffic, without separated bike lane",1,1,1,1,2,5,4,4,59.42434,18.06876
+1390,1,41,11859,1,"Employed",1,"30_59",1,0,"No",0,"In areas with low traffic, without separated bike lane",3,1,0,1,5,5,5,5,59.30627,18.06832
+1389,1,41,11666,1,"Employed",1,"30_59",1,1,"Own",0,"In areas with high traffic, without separated bike lane",2,1,0,1,5,5,4,5,59.30789,18.08551
+1386,1,56,12949,0,"Employed",1,"30_59",1,1,"Own",0,"On separated bike paths",3,1,1,1,5,4,4,4,59.2906678,17.9769973
+1383,1,31,17458,1,"Employed",0,"30_59",1,0,"No",0,"In areas with low traffic, without separated bike lane",4,1,1,1,4,4,4,4,59.3733913,17.9381976
+1381,1,29,13145,1,"Employed",0,"0_29",1,1,"Own",0,"In areas with high traffic, without separated bike lane",5,1,0,1,5,5,4,5,59.3150508,18.1969328
+1374,0,45,12679,1,"Unemployed",1,"30_59",1,1,"Other access",0,"In areas with high traffic, without separated bike lane",2,1,0,0,2,2,2,2,59.2903298,18.0024552
+1368,0,51,18273,1,"Employed",1,"30_59",1,1,"Own",0,"In areas with high traffic, without separated bike lane",3,1,0,1,5,5,5,4,59.3920937,18.0517219
+1358,0,31,12934,1,"Employed",0,"30_59",1,0,"No",0,"In areas with high traffic, without separated bike lane",2,1,0,1,5,5,4,4,59.3025468,17.9878189
+1347,1,43,17441,0,"Employed",1,"30_59",1,1,"Other access",0,"In areas with high traffic, without separated bike lane",0,0,0,1,4,5,4,4,59.3837853,17.975324
+1337,0,48,16568,0,"Employed",1,"30_59",0,0,"No",0,"In areas with low traffic, without separated bike lane",1,1,1,1,5,5,5,5,NA,NA
+1318,1,38,11741,1,"Employed",1,"30_59",1,0,"Other access",0,"In areas with high traffic, without separated bike lane",3,1,1,1,5,5,4,4,59.3148632,18.04416
+1316,1,49,13439,1,"Employed",1,"30_59",1,1,"Own",0,"In areas with high traffic, without separated bike lane",0,0,1,0,2,3,2,4,59.3121424,18.3941819
+1282,1,36,13144,1,"Employed",1,"30_59",1,0,"Other access",0,"In areas with high traffic, without separated bike lane",3,1,1,1,2,2,1,2,59.311014,18.2129491
+1281,0,43,13246,1,"Employed",1,"30_59",1,1,"Other access",0,"In areas with low traffic, without separated bike lane",2,1,1,1,4,4,4,4,59.3041558,18.2684785
+1277,1,47,17166,0,"Employed",1,"30_59",1,1,"Other access",1,"In areas with high traffic, without separated bike lane",3,1,0,1,4,4,4,4,59.3566648,17.9860173
+1265,1,50,11323,1,"Employed",1,"30_59",1,0,"No",0,"In areas with high traffic, without separated bike lane",3,1,0,1,5,5,3,5,59.3459619,18.0443306
+1263,0,64,11252,1,"Employed",1,"60a",0,1,"Other access",1,"In areas with high traffic, without separated bike lane",3,1,0,1,4,5,4,4,59.3331617,18.0022756
+1249,NA,45,11759,0,"Employed",1,"30_59",1,0,"Other access",0,"In areas with high traffic, without separated bike lane",2,1,1,1,5,5,5,5,59.3062827,18.0273651
+1242,1,49,11263,0,"Employed",1,"30_59",1,0,"No",0,"In areas with high traffic, without separated bike lane",1,1,0,1,4,5,4,4,59.32416,18.00542
+1240,1,39,12145,1,"Employed",1,"30_59",1,0,"No",0,"In areas with low traffic, without separated bike lane",1,1,0,1,4,4,2,2,59.298515,18.0924906
+1236,0,43,16843,1,"Employed",1,"30_59",1,1,"Own",0,"In areas with low traffic, without separated bike lane",1,1,1,0,5,5,5,5,59.34392,17.8812
+1216,1,34,11636,1,"Employed",0,"30_59",1,1,"Own",0,"In areas with high traffic, without separated bike lane",4,1,0,1,4,4,4,4,59.3148705,18.0901458
+1188,1,36,18761,1,"Employed",1,"30_59",1,0,"No",0,"In areas with high traffic, without separated bike lane",4,1,1,1,4,4,4,4,59.47418,18.1249
+1185,0,43,13839,1,"Employed",1,"30_59",1,1,"Other access",0,"In areas with high traffic, without separated bike lane",2,1,1,1,5,5,5,5,59.2521797,18.1924918
+1183,1,39,14137,1,"Employed",1,"30_59",1,1,"Other access",0,"In areas with high traffic, without separated bike lane",1,1,1,1,4,2,2,3,59.2445496,18.0263513
+1175,0,37,17155,1,"Employed",1,"30_59",1,1,"Own",0,"In areas with low traffic, without separated bike lane",2,1,0,1,4,4,4,4,59.3536219,17.9828025
+1174,1,40,18273,1,"Employed",1,"30_59",1,1,"Own",0,"In areas with high traffic, without separated bike lane",2,1,0,1,5,5,5,5,59.3920937,18.0517219
+1162,0,41,17464,1,"Employed",0,"30_59",1,0,"No",0,"In areas with high traffic, without separated bike lane",4,1,0,1,5,5,4,5,59.3831152,17.9470618
+1159,1,53,13160,1,"Employed",1,"30_59",1,1,"Other access",0,"In areas with high traffic, without separated bike lane",3,1,1,1,4,5,5,5,59.3049234,18.1492818
+1158,1,24,11364,1,"Student",0,"0_29",1,0,"Other access",0,"In areas with low traffic, without separated bike lane",3,1,0,1,4,5,5,4,59.3457716,18.0336478
+1157,0,39,12863,1,"Employed",1,"30_59",1,1,"Other access",1,"In areas with high traffic, without separated bike lane",1,1,0,1,5,5,4,4,59.2589169,18.1267314
+1155,1,38,11828,1,"Employed",1,"30_59",1,0,"No",0,"In areas with high traffic, without separated bike lane",1,1,0,1,5,5,4,5,59.3145133,18.0697519
+1147,1,32,11741,1,"Unemployed",1,"30_59",1,0,"Other access",0,"In areas with low traffic, without separated bike lane",0,0,0,1,5,5,5,5,59.3148632,18.04416
+1146,1,52,11736,0,"Employed",1,"30_59",1,0,"No",0,"In areas with high traffic, without separated bike lane",3,1,0,1,5,5,5,5,59.3173127,18.029861
+1143,1,26,11825,0,"Employed",0,"0_29",0,0,"No",0,"On separated bike paths",2,1,0,1,4,4,4,4,59.3210754,18.0557627
+1132,1,45,13836,1,"Employed",1,"30_59",1,1,"Own",0,"In areas with high traffic, without separated bike lane",1,1,1,1,4,4,2,2,59.2635305,18.1964741
+1122,1,27,11768,1,"Employed",0,"0_29",1,1,"Other access",0,"In areas with high traffic, without separated bike lane",3,1,0,1,4,5,4,4,59.31396,18.00143
+1120,1,62,12360,1,"Employed",1,"60a",1,0,"Other access",0,"In areas with high traffic, without separated bike lane",5,1,1,1,4,4,4,4,59.2586717,18.0960443
+1117,1,59,11560,0,"Employed",1,"30_59",1,1,"Other access",0,"In areas with high traffic, without separated bike lane",5,1,1,1,5,5,5,5,59.344133,18.1097
+1097,1,37,16856,1,"Employed",1,"30_59",1,1,"Other access",0,"In areas with high traffic, without separated bike lane",2,1,0,1,3,5,4,4,59.3457819,17.9105799
+1083,0,24,11127,1,"Student",0,"0_29",1,0,"No",1,"In areas with high traffic, without separated bike lane",2,1,0,1,5,5,5,5,59.3239744,18.0695198
+1080,1,37,11261,1,"Employed",0,"30_59",1,0,"No",0,"In areas with high traffic, without separated bike lane",2,1,0,1,5,5,5,5,59.3252117,18.0077564
+1075,1,50,13839,0,"Employed",1,"30_59",1,1,"Other access",0,"In areas with high traffic, without separated bike lane",0,0,0,1,3,4,5,3,59.2521797,18.1924918
+1066,1,29,16744,1,"Employed",0,"0_29",1,1,"Other access",0,"In areas with high traffic, without separated bike lane",2,1,0,1,5,5,5,5,59.3358514,17.9763592
+1053,1,54,11264,1,"Employed",1,"30_59",1,1,"Own",0,"In areas with high traffic, without separated bike lane",4,1,0,1,5,5,5,5,59.3226326,18.0069155
+1052,1,54,13671,0,"Employed",1,"30_59",1,1,"Other access",0,"In areas with high traffic, without separated bike lane",1,1,0,0,2,2,2,2,59.1932809,18.1868712
+1040,1,59,13245,1,"Employed",1,"30_59",1,1,"Own",0,"In areas with low traffic, without separated bike lane",1,1,1,1,5,5,5,5,59.3106567,18.2614295
+1032,1,35,11768,1,"Employed",0,"30_59",1,1,"Own",0,"In areas with high traffic, without separated bike lane",4,1,0,1,4,2,2,4,59.31396,18.00143
+1029,1,30,14158,0,"Employed",0,"30_59",1,1,"Own",0,"In areas with high traffic, without separated bike lane",0,0,0,1,4,4,4,4,59.2150901,17.9570519
+1025,1,28,11867,0,"Employed",0,"0_29",0,0,"No",0,"In areas with high traffic, without separated bike lane",1,1,0,1,4,4,4,4,59.3100607,18.0591472
+1024,1,40,12571,1,"Employed",1,"30_59",1,1,"Own",0,"In areas with low traffic, without separated bike lane",2,1,1,0,4,5,3,4,59.2844019,18.0316738
+1015,0,32,12842,1,"Employed",0,"30_59",1,0,"No",1,"In areas with low traffic, without separated bike lane",2,1,1,0,4,4,4,4,59.2746529,18.1264185
+1010,0,54,11221,1,"Employed",1,"30_59",1,1,"Own",0,"In areas with high traffic, without separated bike lane",1,1,0,1,5,5,5,5,59.3283826,18.0458242
+1005,1,35,11248,1,"Employed",0,"30_59",1,0,"Other access",0,"In areas with high traffic, without separated bike lane",2,1,0,1,4,2,3,4,59.3373443,18.030683
+992,0,28,12841,0,"Employed",0,"0_29",0,0,"No",0,"In areas with high traffic, without separated bike lane",4,1,0,1,5,4,4,4,59.2780024,18.1242938
+986,1,42,11245,1,"Employed",1,"30_59",1,0,"Other access",0,"In areas with high traffic, without separated bike lane",1,1,0,1,4,5,3,4,59.3348356,18.0279161
+984,1,50,18742,1,"Employed",1,"30_59",1,1,"Own",0,"In areas with high traffic, without separated bike lane",1,1,1,1,4,4,4,4,59.4413718,18.0126692
+982,1,29,12629,1,"Employed",0,"0_29",1,0,"No",0,"In areas with high traffic, without separated bike lane",3,1,0,1,5,5,4,4,59.2967029,18.0013571
+978,1,23,17070,0,"Student",0,"0_29",1,0,"Other access",0,"In areas with low traffic, without separated bike lane",2,1,0,1,5,5,2,4,59.3827398,18.0273498
+966,1,31,11221,1,"Employed",0,"30_59",1,1,"Own",0,"In areas with high traffic, without separated bike lane",3,1,0,1,5,5,5,5,59.3283826,18.0458242
+962,1,56,13246,1,"Employed",1,"30_59",1,1,"Own",0,"In areas with high traffic, without separated bike lane",1,1,1,1,3,5,4,4,59.3041558,18.2684785
+953,1,45,11242,1,"Employed",0,"30_59",1,0,NA,1,"In areas with low traffic, without separated bike lane",1,1,1,1,3,3,3,3,59.3323368,18.0306488
+940,1,31,17151,1,"Employed",0,"30_59",1,1,"Own",0,"In areas with low traffic, without separated bike lane",2,1,0,1,3,4,3,4,59.3101084,17.9128317
+929,0,60,13138,1,"Employed",0,"60a",1,0,"Other access",0,"In areas with high traffic, without separated bike lane",1,1,0,1,5,5,5,5,59.3053875,18.1449212
+926,1,49,18252,1,"Employed",1,"30_59",1,1,"Own",0,"In areas with high traffic, without separated bike lane",1,1,0,1,5,5,5,5,59.3959,18.04625
+924,1,49,16845,1,"Employed",1,"30_59",1,0,"No",0,"In areas with high traffic, without separated bike lane",1,1,0,1,5,5,5,5,59.3447352,17.8837905
+916,1,34,11265,1,"Employed",0,"30_59",1,0,"No",0,"In areas with high traffic, without separated bike lane",2,1,0,1,5,5,4,4,59.3183226,17.989148
+915,0,33,11265,1,"Employed",0,"30_59",1,0,"No",0,"In areas with high traffic, without separated bike lane",2,1,0,1,5,5,5,5,59.3183226,17.989148
+908,1,34,16840,1,"Employed",0,"30_59",1,1,"Own",0,"In areas with high traffic, without separated bike lane",2,1,1,1,3,2,2,3,59.33094,17.91454
+899,1,29,11248,1,"Employed",0,"0_29",1,0,"No",0,"In areas with high traffic, without separated bike lane",3,1,1,0,3,4,4,5,59.3373443,18.030683
+892,1,31,11532,1,"Employed",0,"30_59",1,1,"Own",0,"In areas with high traffic, without separated bike lane",1,1,0,1,4,4,4,4,59.34314,18.09197
+885,1,30,12933,1,"Employed",0,"30_59",1,1,"Own",0,"In areas with high traffic, without separated bike lane",2,1,1,1,5,5,5,5,59.3003965,17.9845609
+877,1,31,16953,1,"Employed",0,"30_59",1,1,"Own",0,"In areas with high traffic, without separated bike lane",3,1,0,1,5,5,5,5,59.3645926,18.0010552
+873,0,42,12050,0,"Employed",1,"30_59",1,1,"Own",0,"In areas with high traffic, without separated bike lane",1,1,1,1,5,5,5,5,59.2946098,18.0609967
+872,0,23,11419,0,"Student",0,"0_29",1,0,"Other access",0,"In areas with high traffic, without separated bike lane",1,1,0,1,5,3,2,3,59.3564052,18.0572821
+867,1,53,14636,0,"Employed",1,"30_59",1,1,"Own",0,"In areas with high traffic, without separated bike lane",1,1,1,1,5,5,5,5,59.1995909,17.9163294
+858,0,28,11248,1,"Employed",0,"0_29",1,0,"No",0,"In areas with low traffic, without separated bike lane",0,0,0,1,5,5,5,5,59.3373443,18.030683
+851,1,39,18235,0,"Employed",1,"30_59",1,1,"Own",0,"In areas with high traffic, without separated bike lane",0,0,0,1,4,4,4,2,59.4127826,18.0060794
+847,1,37,19265,1,"Employed",1,"30_59",1,1,"Own",0,"In areas with low traffic, without separated bike lane",1,1,1,1,5,5,5,5,59.45483,17.9834
+839,0,30,11727,1,"Employed",0,"30_59",1,0,"Other access",0,"In areas with high traffic, without separated bike lane",3,1,0,1,4,4,4,4,59.3182042,18.0473477
+834,1,39,12260,1,"Employed",1,"30_59",1,1,"Own",0,"In areas with high traffic, without separated bike lane",3,1,1,0,4,5,5,4,59.2694263,18.0791958
+832,1,39,11829,1,"Employed",1,"30_59",1,0,"Other access",0,"In areas with high traffic, without separated bike lane",1,1,1,1,5,5,5,5,59.312131,18.0689176
+824,0,50,16940,1,"Employed",1,"30_59",1,1,"Own",0,"In areas with low traffic, without separated bike lane",3,1,1,0,5,5,5,4,59.3681919,17.9821057
+818,1,41,12845,1,"Employed",0,"30_59",1,1,"Own",0,"In areas with low traffic, without separated bike lane",3,1,1,1,5,5,4,4,59.2763222,18.1341971
+814,1,41,17464,1,"Employed",0,"30_59",1,1,"Own",0,"In areas with high traffic, without separated bike lane",1,1,1,1,4,5,4,3,59.3831152,17.9470618
+807,1,40,17568,1,"Employed",1,"30_59",1,1,"Own",0,"In areas with high traffic, without separated bike lane",2,1,1,0,4,4,3,3,59.3921263,17.8424251
+805,1,22,13153,0,"Student",0,"0_29",1,1,"No",1,"In areas with high traffic, without separated bike lane",2,1,1,0,3,4,3,4,59.3103532,18.1645917
+801,1,52,14141,1,"Employed",1,"30_59",1,1,"Own",0,"In areas with high traffic, without separated bike lane",0,0,1,1,3,3,1,2,59.2562492,17.9714285
+785,1,40,12838,1,"Employed",1,"30_59",1,1,"Other access",0,"In areas with low traffic, without separated bike lane",2,1,0,1,5,5,4,5,59.2741348,18.1150752
+782,0,19,11417,0,"Student",0,"0_29",0,0,"No",1,"In areas with high traffic, without separated bike lane",2,1,0,1,4,4,4,3,59.3697011,18.0634601
+778,1,20,11417,0,"Student",0,"0_29",1,0,"Other access",1,"In areas with low traffic, without separated bike lane",1,1,0,1,5,3,2,3,59.3697011,18.0634601
+772,1,20,11621,0,"Student",0,"0_29",1,0,"No",0,"On separated bike paths",3,1,0,1,5,5,5,5,59.3150215,18.0744369
+771,1,32,18167,1,"Student",0,"30_59",0,1,"Own",0,"In areas with high traffic, without separated bike lane",1,1,1,1,4,4,4,5,59.3521451,18.2082723
+760,0,33,12341,1,"Employed",1,"30_59",1,1,"Other access",0,"In areas with high traffic, without separated bike lane",3,1,1,1,4,5,4,4,59.2434495,18.0967101
+746,0,32,11756,1,"Employed",1,"30_59",0,0,"Other access",0,"In areas with high traffic, without separated bike lane",3,1,0,1,5,5,5,5,59.3044814,18.0311982
+734,1,46,11661,0,"Employed",1,"30_59",1,0,"No",0,"In areas with high traffic, without separated bike lane",5,1,0,1,4,5,4,5,59.3083776,18.079488
+729,1,31,11421,1,"Employed",0,"30_59",1,0,"Other access",0,"In areas with high traffic, without separated bike lane",4,1,0,1,5,5,5,5,59.3510943,18.0629837
+727,1,35,13561,0,"Employed",1,"30_59",1,1,"Own",0,"In areas with high traffic, without separated bike lane",4,1,1,1,4,3,2,3,59.2462419,18.2739198
+726,1,36,12938,1,"Employed",1,"30_59",1,0,"No",0,"In areas with high traffic, without separated bike lane",3,1,1,1,4,4,4,4,59.3010711,17.9703893
+713,0,45,12343,1,"Employed",1,"30_59",1,1,"Other access",0,"In areas with low traffic, without separated bike lane",1,1,0,1,4,5,4,4,59.2401577,18.1049022
+708,0,38,16244,1,"Employed",1,"30_59",1,1,"Other access",0,"In areas with high traffic, without separated bike lane",1,1,1,0,4,3,4,3,59.3767277,17.8631979
+705,0,42,16737,1,"Employed",1,"30_59",1,1,"Own",0,"In areas with high traffic, without separated bike lane",0,0,0,1,4,4,4,4,59.3390186,17.9823164
+696,1,53,17159,1,"Employed",1,"30_59",1,1,"Other access",0,"In areas with high traffic, without separated bike lane",1,1,0,1,4,4,3,4,59.3512884,18.0011939
+688,1,32,19476,1,"Employed",0,"30_59",1,0,"Other access",1,"In areas with high traffic, without separated bike lane",2,1,1,1,5,5,5,5,59.519945,17.9059942
+687,1,54,12571,1,"Employed",1,"30_59",1,1,"Own",0,"In areas with high traffic, without separated bike lane",3,1,1,1,4,5,5,5,59.2844019,18.0316738
+682,0,43,17163,1,"Employed",1,"30_59",1,1,"Own",1,"In areas with high traffic, without separated bike lane",2,1,1,1,5,4,4,3,59.3541476,17.9999053
+670,1,45,16859,1,"Employed",1,"30_59",1,1,"Own",0,"In areas with high traffic, without separated bike lane",1,1,0,1,5,5,5,5,59.3553641,17.9156307
+666,1,52,44350,1,"Employed",1,"30_59",1,1,"Own",1,"In areas with high traffic, without separated bike lane",0,0,1,1,5,2,3,4,NA,NA
+665,0,36,11266,1,"Employed",0,"30_59",1,1,"Other access",0,"In areas with high traffic, without separated bike lane",2,1,0,1,5,5,5,4,59.3208232,17.9852404
+660,0,44,11766,1,"Employed",1,"30_59",1,1,"Other access",0,"On separated bike paths",3,1,0,0,5,5,5,5,59.3160232,18.0136192
+657,0,29,11246,1,"Employed",0,"0_29",1,1,"Own",0,"In areas with high traffic, without separated bike lane",3,1,0,1,5,5,4,4,59.3360934,18.0317305
+650,1,24,17070,1,"Student",0,"0_29",1,1,"Own",1,"In areas with high traffic, without separated bike lane",3,1,0,1,2,2,2,2,59.3827398,18.0273498
+644,1,48,17155,1,"Employed",1,"30_59",1,0,"Other access",0,"In areas with high traffic, without separated bike lane",3,1,0,1,5,5,5,4,59.3536219,17.9828025
+637,0,22,12135,1,"Student",0,"0_29",1,1,"No",0,"In areas with low traffic, without separated bike lane",1,1,1,1,4,5,2,4,59.2925691,18.089268
+635,1,33,12132,1,"Employed",0,"30_59",1,0,"No",0,"In areas with high traffic, without separated bike lane",2,1,0,1,5,5,5,5,59.2894228,18.0921649
+618,1,33,11635,1,"Employed",1,"30_59",1,0,"No",0,"In areas with high traffic, without separated bike lane",3,1,0,0,5,5,5,5,59.3139812,18.0857834
+607,0,28,12360,1,"Employed",0,"0_29",1,1,"Own",0,"In areas with high traffic, without separated bike lane",5,1,1,1,5,5,4,5,59.2586717,18.0960443
+602,0,39,18230,1,"Employed",0,"30_59",0,0,"No",0,"In areas with low traffic, without separated bike lane",2,1,0,0,5,5,5,4,59.3881643,18.0393075
+598,1,42,14152,1,"Employed",1,"30_59",1,0,"Other access",0,"In areas with high traffic, without separated bike lane",3,1,1,1,5,5,5,5,59.2178104,17.9376187
+597,1,54,18157,1,"Employed",1,"30_59",1,1,"Other access",1,"In areas with low traffic, without separated bike lane",1,1,1,0,5,5,5,5,59.3506708,18.1675254
+588,1,24,17237,1,"Employed",0,"0_29",1,1,"Other access",0,"In areas with low traffic, without separated bike lane",1,1,1,0,2,2,2,2,59.37057,17.94496
+583,1,32,17164,1,"Employed",0,"30_59",1,0,"No",0,"In areas with high traffic, without separated bike lane",2,1,1,1,5,5,5,5,59.3507468,18.0269316
+566,1,35,13233,1,"Employed",1,"30_59",0,0,"No",1,"In areas with high traffic, without separated bike lane",3,1,1,0,5,3,3,3,59.3292477,18.2520355
+565,NA,45,16552,1,"Employed",1,"30_59",1,1,"Other access",0,"In areas with high traffic, without separated bike lane",4,1,1,1,5,5,5,5,59.3722919,17.8411271
+559,1,56,16354,1,"Employed",1,"30_59",1,1,"Other access",0,"In areas with high traffic, without separated bike lane",1,1,1,1,4,4,4,4,59.3754448,17.8859419
+551,0,44,14162,1,"Employed",1,"30_59",1,1,"Own",0,"In areas with low traffic, without separated bike lane",2,1,1,1,5,5,4,4,59.2371614,17.991867
+543,0,65,12636,1,"Employed",0,"60a",1,0,"No",0,"In areas with low traffic, without separated bike lane",2,1,1,1,5,4,3,3,59.3015119,17.9991974
+541,0,49,11869,1,"Employed",1,"30_59",1,0,"Other access",0,"In areas with low traffic, without separated bike lane",3,1,0,1,5,5,5,5,59.3108967,18.060897
+540,1,27,12247,1,"Employed",0,"0_29",1,0,"No",1,"In areas with high traffic, without separated bike lane",3,1,1,0,4,5,4,4,59.2734754,18.062333
+532,1,45,12653,1,"Employed",0,"30_59",0,0,"No",0,"In areas with high traffic, without separated bike lane",4,1,1,1,5,4,4,4,59.3056484,17.985475
+527,1,35,17171,1,"Employed",0,"30_59",1,0,"Other access",0,"In areas with low traffic, without separated bike lane",5,1,0,1,4,5,5,5,59.349798,18.0024751
+523,1,36,11259,1,"Employed",0,"30_59",1,0,"Other access",0,"In areas with high traffic, without separated bike lane",2,1,1,1,5,5,5,5,59.3282692,18.0126628
+522,1,29,17070,1,"Employed",1,"0_29",1,0,"No",1,"In areas with high traffic, without separated bike lane",1,1,0,1,3,3,3,4,59.3827398,18.0273498
+509,1,34,16741,1,"Employed",0,"30_59",1,0,"No",0,"In areas with high traffic, without separated bike lane",5,1,0,1,4,3,4,4,59.3361338,17.9880026
+508,1,30,11739,1,"Employed",0,"30_59",1,0,"Other access",0,"In areas with high traffic, without separated bike lane",2,1,0,1,5,5,5,5,59.3154188,18.0310071
+494,1,43,12133,1,"Employed",1,"30_59",1,0,"No",0,"In areas with high traffic, without separated bike lane",2,1,0,1,4,5,4,3,59.2831567,18.1025967
+493,1,43,12936,1,"Employed",1,"30_59",1,0,"Other access",0,"In areas with high traffic, without separated bike lane",1,1,0,1,4,3,2,4,59.3074577,17.981264
+491,1,53,13431,0,"Employed",1,"30_59",1,1,"Other access",1,"In areas with high traffic, without separated bike lane",3,1,0,1,4,4,4,4,59.3254002,18.3452332
+489,1,40,16260,0,"Employed",0,"30_59",1,1,"Own",0,"In areas with high traffic, without separated bike lane",4,1,1,1,5,5,4,5,59.356054,17.8792706
+485,1,31,12949,0,"Employed",0,"30_59",1,1,"Other access",0,"In areas with high traffic, without separated bike lane",3,1,0,1,4,5,3,4,59.2906678,17.9769973
+481,1,33,16559,0,"Employed",0,"30_59",1,0,"No",0,"In areas with high traffic, without separated bike lane",1,1,1,1,4,4,3,2,59.3717623,17.8238668
+475,0,58,16776,1,"Employed",0,"30_59",1,1,"Own",1,"In areas with high traffic, without separated bike lane",0,0,1,0,4,4,3,4,59.32751,17.91936
+461,1,29,11231,1,"Employed",0,"0_29",1,1,"Own",0,"In areas with high traffic, without separated bike lane",2,1,0,1,5,5,4,2,59.3301468,18.0366705
+458,0,26,11332,0,"Student",0,"0_29",1,0,"No",0,"In areas with high traffic, without separated bike lane",1,1,1,1,5,5,4,4,59.3403867,18.0367681
+445,1,41,13251,1,"Employed",1,"30_59",1,1,"Own",0,"In areas with high traffic, without separated bike lane",2,1,1,1,4,4,3,4,59.3052032,17.9635747
+441,0,51,13142,1,"Employed",1,"30_59",1,1,"Own",0,"In areas with low traffic, without separated bike lane",1,1,1,1,5,5,5,5,59.310487,18.1889321
+438,0,71,12063,1,"Employed",0,"60a",1,0,"Other access",0,"In areas with low traffic, without separated bike lane",2,1,0,1,5,5,4,4,59.30471,18.0921
+415,0,31,17070,1,"Unemployed",0,"30_59",1,0,"No",0,"In areas with high traffic, without separated bike lane",1,1,0,1,3,4,3,4,59.3827398,18.0273498
+413,0,39,17062,1,"Employed",1,"30_59",1,1,"Own",0,"In areas with high traffic, without separated bike lane",4,1,0,1,5,4,3,3,59.3838875,17.9818893
+408,1,41,11846,1,"Employed",0,"30_59",1,0,"No",0,"In areas with high traffic, without separated bike lane",2,1,0,1,5,5,4,4,59.3186723,18.0699703
+403,1,37,12652,1,"Employed",0,"30_59",1,0,"No",0,"In areas with high traffic, without separated bike lane",2,1,0,1,3,5,4,4,59.3068007,17.9901103
+388,1,34,11347,1,"Employed",0,"30_59",1,1,"Own",1,"On separated bike paths",2,1,0,1,5,4,4,5,59.347232,18.0501627
+379,1,30,12450,0,"Employed",0,"30_59",1,0,"No",0,"In areas with high traffic, without separated bike lane",1,1,1,1,4,3,4,4,59.2613329,18.0402212
+368,1,58,18256,1,"Employed",1,"30_59",1,1,"Own",0,"In areas with high traffic, without separated bike lane",1,1,1,1,4,4,4,4,59.41079,18.02391
+366,1,45,18151,1,"Employed",1,"30_59",1,1,"Own",0,"In areas with high traffic, without separated bike lane",3,1,1,1,5,5,4,4,59.35992,18.12882
+358,0,48,11544,1,"Employed",1,"30_59",1,1,"Own",0,"In areas with low traffic, without separated bike lane",3,1,0,1,5,5,5,5,59.3543237,18.0883987
+357,1,62,11269,0,"Employed",1,"60a",1,0,"Other access",0,"In areas with high traffic, without separated bike lane",1,1,0,1,5,5,5,5,59.3344399,18.0411752
+355,0,34,17062,1,"Employed",1,"30_59",1,0,"No",1,"On separated bike paths",4,1,0,1,4,4,4,5,59.3838875,17.9818893
+344,1,41,12930,0,"Employed",0,"30_59",1,1,"Other access",0,"In areas with high traffic, without separated bike lane",2,1,1,1,4,4,4,4,59.29445,17.98561
+342,1,45,13147,1,"Employed",1,"30_59",1,1,"Own",0,"In areas with high traffic, without separated bike lane",1,1,1,1,4,4,4,4,59.3210547,18.2064433
+331,1,34,12344,1,"Employed",0,"30_59",1,0,"No",0,"In areas with high traffic, without separated bike lane",0,0,1,1,2,4,2,4,59.2409056,18.1007951
+327,1,49,16244,1,"Employed",1,"30_59",1,1,"Own",0,"In areas with low traffic, without separated bike lane",1,1,0,1,4,4,2,4,59.3767277,17.8631979
+326,1,36,17066,1,"Employed",1,"30_59",0,0,"No",0,"In areas with high traffic, without separated bike lane",2,1,0,1,5,5,4,4,59.3764513,18.0067563
+325,0,34,17066,1,"Employed",1,"30_59",0,0,"No",0,"On separated bike paths",1,1,0,1,5,5,5,5,59.3764513,18.0067563
+288,1,28,18147,1,"Employed",0,"0_29",1,0,"No",0,"In areas with low traffic, without separated bike lane",1,1,1,1,4,5,4,5,59.372097,18.1780133
+284,1,47,16341,0,"Employed",1,"30_59",1,1,"Other access",0,"In areas with high traffic, without separated bike lane",3,1,0,1,5,5,4,2,59.3836866,17.9096694
+275,0,41,17460,1,"Employed",1,"30_59",0,0,"No",1,"In areas with high traffic, without separated bike lane",5,1,0,0,5,4,4,4,59.37863,17.93784
+270,1,25,12138,1,"Employed",0,"0_29",1,0,"No",0,"In areas with high traffic, without separated bike lane",0,0,0,1,5,5,5,5,59.2964569,18.0991245
+262,1,28,16957,1,"Employed",0,"0_29",1,0,"No",0,"In areas with high traffic, without separated bike lane",3,1,0,1,4,5,5,5,59.3664867,18.0005496
+255,1,27,14261,1,"Employed",0,"0_29",1,0,"No",0,"In areas with low traffic, without separated bike lane",1,1,1,0,1,1,1,2,59.23122,18.13239
+254,1,36,11544,0,"Employed",1,"30_59",1,1,"Own",0,"In areas with high traffic, without separated bike lane",2,1,0,1,5,4,4,4,59.3543237,18.0883987
+249,0,28,11850,1,"Employed",0,"0_29",1,0,"No",0,"In areas with low traffic, without separated bike lane",3,1,0,1,5,5,4,5,59.3168286,18.0622621
+236,1,41,15148,1,"Employed",1,"30_59",0,0,"No",0,"In areas with high traffic, without separated bike lane",0,0,0,1,5,5,5,4,59.17389,17.62176
+232,1,46,19232,1,"Employed",1,"30_59",1,1,"Own",0,"In areas with low traffic, without separated bike lane",2,1,1,0,3,1,1,3,59.4435489,17.9739676
+222,0,40,16561,1,"Employed",0,"30_59",1,0,"No",1,"In areas with high traffic, without separated bike lane",2,1,1,1,4,4,3,4,59.3590798,17.8374784
+218,0,27,11738,1,"Employed",0,"0_29",1,0,"Other access",0,"In areas with high traffic, without separated bike lane",5,1,0,1,5,5,5,5,59.3157593,18.0322223
+211,1,34,11244,1,"Employed",0,"30_59",1,0,"No",0,"In areas with high traffic, without separated bike lane",5,1,0,1,4,5,4,4,59.33337,18.01232
+209,0,32,11417,1,"Employed",0,"30_59",1,0,"No",1,"In areas with low traffic, without separated bike lane",2,1,1,0,4,4,2,3,59.3697011,18.0634601
+204,0,53,19137,1,"Employed",1,"30_59",1,1,"Other access",0,"In areas with high traffic, without separated bike lane",1,1,0,1,5,4,2,2,59.4041416,17.9775597
+201,0,35,17457,1,"Employed",0,"30_59",1,1,"Other access",0,"In areas with low traffic, without separated bike lane",1,1,1,1,5,5,5,5,59.3762465,17.930059
+200,1,47,16342,0,"Employed",1,"30_59",1,1,"Other access",0,"In areas with high traffic, without separated bike lane",1,1,1,1,5,4,3,3,59.38103,17.92273
+197,1,54,12867,1,"Employed",1,"30_59",1,1,"Own",0,"In areas with high traffic, without separated bike lane",2,1,1,0,4,4,3,2,59.2552367,18.1094304
+195,1,26,11668,0,"Employed",0,"0_29",1,0,"Other access",0,"In areas with high traffic, without separated bike lane",1,1,0,0,4,3,3,4,59.30569,18.08614
+191,0,30,12150,0,"Employed",0,"30_59",1,0,"No",1,"In areas with high traffic, without separated bike lane",1,1,0,1,5,5,5,5,59.2956668,18.11203
+186,0,51,11741,1,"Employed",1,"30_59",1,0,"No",0,"In areas with low traffic, without separated bike lane",3,1,0,1,5,4,4,4,59.3148632,18.04416
+174,0,28,17072,1,"Employed",0,"0_29",0,0,"No",0,"In areas with low traffic, without separated bike lane",5,1,0,1,5,5,5,5,59.3812269,18.0349344
+170,1,36,14192,1,"Employed",0,"30_59",1,1,"Own",0,"In areas with low traffic, without separated bike lane",2,1,1,1,1,1,1,1,59.2188076,18.0039812
+169,0,41,11356,1,"Employed",1,"30_59",1,1,"Other access",0,"In areas with low traffic, without separated bike lane",0,0,0,1,4,4,2,3,59.3451063,18.0613204
+162,1,25,17741,0,"Employed",0,"0_29",1,0,"No",1,"On separated bike paths",1,1,1,0,1,1,3,3,59.4178973,17.8291899
+155,1,34,12934,1,"Unemployed",0,"30_59",0,0,"No",0,"In areas with low traffic, without separated bike lane",2,1,0,1,2,4,2,4,59.3025468,17.9878189
+152,1,48,13547,1,"Employed",1,"30_59",1,1,"Own",0,"In areas with high traffic, without separated bike lane",2,1,1,1,5,5,3,5,59.2495549,18.2058847
+148,1,53,12152,1,"Employed",0,"30_59",1,0,"No",0,"In areas with high traffic, without separated bike lane",2,1,0,1,5,5,4,5,59.2939681,18.115711
+144,1,38,12139,1,"Employed",0,"30_59",1,0,"No",0,"In areas with high traffic, without separated bike lane",2,1,0,0,4,4,4,5,59.2925238,18.1025162
+138,1,31,11417,1,"Employed",0,"30_59",1,0,"No",0,"In areas with high traffic, without separated bike lane",3,1,0,1,5,5,5,5,59.3697011,18.0634601
+132,1,47,18255,1,"Employed",1,"30_59",1,1,"Other access",0,"In areas with high traffic, without separated bike lane",2,1,0,1,4,5,5,3,59.41148,18.05267
+131,0,29,12638,1,"Employed",0,"0_29",1,1,"Other access",0,"In areas with high traffic, without separated bike lane",4,1,1,1,5,4,5,4,59.2940274,17.9926309
+129,0,35,12147,1,"Employed",0,"30_59",1,0,"No",1,"On separated bike paths",1,1,0,0,4,4,4,3,59.29508,18.08724
+121,1,31,11218,1,"Employed",0,"30_59",1,0,"No",0,"In areas with high traffic, without separated bike lane",4,1,0,1,5,5,5,5,59.334721,18.0158193
+111,1,34,12065,1,"Employed",1,"30_59",1,0,"No",0,"In areas with low traffic, without separated bike lane",2,1,0,1,5,5,4,5,59.303003,18.1034859
+110,1,29,11246,0,"Employed",0,"0_29",1,1,"Other access",0,"In areas with high traffic, without separated bike lane",4,1,0,1,5,4,5,5,59.3360934,18.0317305
+108,0,28,11357,1,"Employed",0,"0_29",1,0,"Other access",0,"In areas with low traffic, without separated bike lane",1,1,0,1,5,5,5,4,59.3413985,18.0597652
+101,1,33,12677,1,"Employed",0,"30_59",1,0,"No",0,"On separated bike paths",2,1,0,1,5,5,5,5,59.2852298,18.0096312
+91,0,23,17069,1,"Student",0,"0_29",1,0,"No",0,"In areas with high traffic, without separated bike lane",2,1,0,1,5,5,5,5,59.394756,18.0324893
+87,1,26,11557,1,"Student",0,"0_29",1,0,"Other access",0,"In areas with high traffic, without separated bike lane",2,1,0,1,4,5,5,4,59.3487238,18.0944117
+78,0,41,17453,1,"Employed",1,"30_59",1,0,"Other access",0,"In areas with low traffic, without separated bike lane",3,1,0,1,4,3,3,4,59.37717,17.971436
+71,1,38,16271,1,"Employed",1,"30_59",1,1,"Own",1,"In areas with high traffic, without separated bike lane",2,1,1,1,5,5,5,5,59.3732398,17.8774209
+69,1,40,12061,1,"Employed",1,"30_59",1,1,"Own",0,"In areas with high traffic, without separated bike lane",2,1,1,1,3,3,3,3,59.3037932,18.0949616
+67,1,41,12064,1,"Employed",1,"30_59",1,0,"No",0,"In areas with high traffic, without separated bike lane",2,1,0,1,5,5,4,4,59.3040137,18.0992707
+66,1,35,12957,1,"Employed",0,"30_59",1,1,"Own",0,"In areas with low traffic, without separated bike lane",1,1,1,1,4,3,4,3,59.2862356,17.9519978
+63,1,38,12556,1,"Employed",1,"30_59",1,1,"Other access",0,"In areas with high traffic, without separated bike lane",1,1,1,1,5,5,5,5,59.2743294,17.9752227
+58,1,39,11542,1,"Employed",1,"30_59",1,1,"Own",0,"In areas with high traffic, without separated bike lane",4,1,0,1,5,5,5,5,59.3574658,18.0916489
+56,1,25,12357,0,"Student",0,"0_29",1,1,"Own",0,"In areas with high traffic, without separated bike lane",3,1,0,0,4,5,4,4,59.254564,18.0789309
+53,1,31,11768,1,"Employed",0,"30_59",1,0,"Other access",0,"In areas with high traffic, without separated bike lane",4,1,0,1,4,3,3,3,59.31396,18.00143
+45,1,40,12062,1,"Employed",1,"30_59",1,1,"Own",0,"In areas with high traffic, without separated bike lane",5,1,0,1,5,5,4,4,59.3050964,18.0903053
+42,1,45,14137,1,"Employed",1,"30_59",1,1,"Own",0,"In areas with high traffic, without separated bike lane",1,1,1,1,4,5,4,4,59.2445496,18.0263513
+40,NA,39,12633,1,"Employed",1,"30_59",1,1,"Own",0,"In areas with high traffic, without separated bike lane",1,1,0,1,4,2,2,3,59.3032509,18.0101462
+28,0,38,13442,1,"Employed",1,"30_59",0,1,"Other access",0,"In areas with high traffic, without separated bike lane",2,1,1,1,5,5,3,5,59.3222787,18.407187
+27,1,41,16955,1,"Employed",1,"30_59",1,1,"Other access",0,"In areas with high traffic, without separated bike lane",2,1,0,1,5,5,5,4,59.3690005,17.9932867
+23,0,31,12248,1,"Employed",0,"30_59",1,0,"No",1,"In areas with low traffic, without separated bike lane",2,1,1,0,2,3,2,3,59.2744346,18.0720798
+8,0,32,18230,1,"Employed",0,"30_59",0,0,"No",0,"In areas with high traffic, without separated bike lane",2,1,0,1,4,4,5,5,59.3881643,18.0393075
+NA,1,38,13442,1,"Employed",1,"30_59",1,1,"Own",0,"In areas with high traffic, without separated bike lane",2,1,1,1,5,5,3,3,59.3222787,18.407187
+NA,1,38,17075,1,"Employed",1,"30_59",1,0,"No",0,"In areas with low traffic, without separated bike lane",2,1,0,1,4,4,4,4,59.3810591,18.0296433
+NA,0,36,12430,1,"Employed",1,"30_59",1,0,"No",0,"In areas with high traffic, without separated bike lane",3,1,0,1,5,5,5,5,59.266085,18.058222
+NA,1,35,16554,1,"Employed",0,"30_59",1,1,"Own",0,"In areas with high traffic, without separated bike lane",1,1,1,1,4,2,2,2,59.3656,17.85003
+NA,1,57,13554,1,"Employed",1,"30_59",1,1,"Other access",0,"In areas with high traffic, without separated bike lane",0,0,1,0,4,5,3,3,59.2240615,18.2258829
+NA,1,40,12148,1,"Employed",0,"30_59",1,1,"Other access",0,"In areas with low traffic, without separated bike lane",0,0,0,1,4,4,4,4,59.2933682,18.1012412
+NA,1,37,17069,1,"Employed",1,"30_59",1,0,"Other access",0,"In areas with high traffic, without separated bike lane",2,1,0,1,5,5,5,5,59.394756,18.0324893
+NA,0,43,11771,1,"Employed",0,"30_59",1,0,"No",0,"In areas with high traffic, without separated bike lane",3,1,1,0,5,5,5,4,59.3164866,17.9978431
+NA,1,60,11544,1,"Employed",1,"60a",1,1,"Other access",0,"In areas with high traffic, without separated bike lane",3,1,0,1,5,5,5,5,59.3543237,18.0883987
+NA,1,41,12065,1,"Employed",1,"30_59",1,1,"Own",0,"In areas with high traffic, without separated bike lane",3,1,0,1,4,4,4,4,59.303003,18.1034859
+NA,0,29,12630,1,"Employed",0,"0_29",1,0,"Other access",0,"In areas with low traffic, without separated bike lane",2,1,1,1,4,4,4,4,59.2953762,18.011899
+NA,1,33,12150,0,"Employed",0,"30_59",1,0,"No",1,"In areas with low traffic, without separated bike lane",1,1,1,0,5,3,3,4,59.2956668,18.11203
+NA,1,51,11661,1,"Employed",1,"30_59",1,0,"Other access",0,"In areas with high traffic, without separated bike lane",2,1,0,1,3,5,4,4,59.3083776,18.079488
+NA,0,44,12953,1,"Employed",1,"30_59",1,1,"Own",0,"In areas with high traffic, without separated bike lane",2,1,1,1,4,3,3,4,59.2846844,17.9662449
+NA,1,33,16955,1,"Employed",0,"30_59",0,0,"No",1,"In areas with low traffic, without separated bike lane",3,1,0,1,4,4,4,4,59.3690005,17.9932867
+NA,1,58,18163,0,"Employed",1,"30_59",1,0,"No",1,"In areas with low traffic, without separated bike lane",1,1,1,1,4,5,5,5,59.3513644,18.2302631
+NA,1,43,14141,1,"Employed",1,"30_59",1,1,"Own",0,"In areas with high traffic, without separated bike lane",4,1,1,1,4,4,2,4,59.2562492,17.9714285
+NA,0,46,12154,1,"Employed",1,"30_59",1,1,"Own",0,"In areas with high traffic, without separated bike lane",2,1,1,1,4,5,5,5,59.2868978,18.1082515
+NA,0,46,12061,1,"Employed",1,"30_59",0,0,"No",0,"In areas with high traffic, without separated bike lane",3,1,0,1,5,5,5,5,59.3037932,18.0949616
+NA,0,41,16841,1,"Employed",0,"30_59",1,1,"Own",0,"In areas with low traffic, without separated bike lane",1,1,1,0,4,3,3,3,59.3313539,17.9082409
+NA,1,53,13131,1,"Employed",1,"30_59",1,1,"Other access",0,"In areas with high traffic, without separated bike lane",0,0,0,1,4,4,4,4,59.3145564,18.1242312
+NA,1,44,12066,1,"Employed",1,"30_59",NA,NA,NA,NA,NA,NA,NA,NA,1,5,5,4,4,59.3023914,18.1049041
+NA,1,42,19134,1,"Unemployed",0,"30_59",NA,NA,NA,NA,NA,NA,NA,NA,1,3,3,2,1,59.4239219,17.9431161
+NA,1,35,12467,0,"Employed",0,"30_59",NA,NA,NA,NA,NA,NA,NA,NA,1,5,4,4,5,59.2591308,18.0317142
+NA,1,38,13172,1,"Employed",1,"30_59",NA,NA,NA,NA,NA,NA,NA,NA,1,5,5,5,4,59.315223,18.1206097
+NA,1,64,17272,1,"Employed",0,"60a",1,1,"Own",0,"In areas with high traffic, without separated bike lane",1,1,1,1,5,5,4,4,59.3661202,17.9647616
+NA,1,38,11761,1,"Employed",1,"30_59",1,0,"Other access",0,"In areas with high traffic, without separated bike lane",0,0,0,1,3,3,3,3,59.3114367,18.0261348
+NA,1,51,12558,0,"Employed",1,"30_59",1,1,"Own",0,"In areas with low traffic, without separated bike lane",3,1,1,1,4,5,4,3,59.2772295,17.9822919
+NA,1,38,16932,1,"Employed",0,"30_59",1,0,"Other access",0,"In areas with low traffic, without separated bike lane",1,1,0,0,5,5,4,5,59.3626462,17.9857393
+NA,1,41,12064,1,"Unemployed",1,"30_59",1,1,"Own",0,"In areas with low traffic, without separated bike lane",1,1,0,1,4,5,5,5,59.3040137,18.0992707
+NA,1,55,18735,1,"Employed",1,"30_59",1,1,"Own",0,"On separated bike paths",5,1,1,1,4,4,4,4,59.4583846,18.0553672
+NA,1,50,12138,1,"Employed",1,"30_59",1,0,"No",0,"In areas with high traffic, without separated bike lane",2,1,0,1,5,5,4,4,59.2964569,18.0991245
+NA,0,50,16342,1,"Employed",1,"30_59",NA,NA,NA,NA,NA,NA,NA,NA,1,5,5,4,3,59.38103,17.92273
+NA,1,17,12138,0,"Student",0,"0_29",0,0,"No",1,"In areas with low traffic, without separated bike lane",0,0,1,1,5,5,5,5,59.2964569,18.0991245
+NA,0,47,12138,1,"Employed",1,"30_59",0,0,"No",0,"On separated bike paths",1,1,1,1,5,5,5,5,59.2964569,18.0991245
+NA,1,43,12146,1,"Employed",1,"30_59",1,1,"Own",0,"In areas with high traffic, without separated bike lane",2,1,1,1,3,5,5,5,59.2970819,18.1024237
+NA,0,32,11266,0,"Student",0,"30_59",1,1,"Own",0,"In areas with low traffic, without separated bike lane",1,1,0,1,5,5,4,4,59.3208232,17.9852404
+NA,0,43,18255,1,"Employed",1,"30_59",1,1,"Other access",0,"In areas with high traffic, without separated bike lane",0,0,0,1,3,4,3,2,59.41148,18.05267
+NA,0,33,11547,1,"Employed",0,"30_59",NA,NA,NA,NA,NA,NA,NA,NA,1,5,5,5,5,59.3585709,18.0896161
+NA,0,36,12131,0,"Employed",1,"30_59",NA,NA,NA,NA,NA,NA,NA,NA,1,4,5,4,4,59.2873097,18.0962373
+NA,0,33,13160,1,"Employed",0,"30_59",NA,NA,NA,NA,NA,NA,NA,NA,1,4,4,3,4,59.3049234,18.1492818
+NA,1,40,13160,0,"Employed",0,"30_59",NA,NA,NA,NA,NA,NA,NA,NA,1,4,3,3,3,59.3049234,18.1492818
+NA,1,29,12051,1,"Student",0,"0_29",0,0,"No",0,"In areas with high traffic, without separated bike lane",2,1,1,1,4,5,5,5,59.2980609,18.0601801
+NA,1,38,12068,1,"Employed",0,"30_59",NA,NA,NA,NA,NA,NA,NA,NA,1,4,5,4,5,59.3047813,18.1090034
+NA,0,34,12068,1,"Employed",0,"30_59",NA,NA,NA,NA,NA,NA,NA,NA,1,5,4,5,5,59.3047813,18.1090034
+NA,0,34,12150,1,"Employed",0,"30_59",NA,NA,NA,NA,NA,NA,NA,NA,1,5,5,5,5,59.2956668,18.11203
+NA,0,39,11661,1,"Employed",1,"30_59",1,0,"No",0,"In areas with high traffic, without separated bike lane",3,1,0,1,5,5,5,4,59.3083776,18.079488
+NA,0,36,12246,1,"Employed",1,"30_59",1,1,"Own",0,"On separated bike paths",1,1,0,1,2,3,3,3,59.2639258,18.0768683
+NA,1,49,16342,1,"Employed",1,"30_59",NA,NA,NA,NA,NA,NA,NA,NA,1,5,5,4,4,59.38103,17.92273
+NA,0,60,13235,1,"Employed",1,"60a",NA,NA,NA,NA,NA,NA,NA,NA,1,4,5,5,3,59.3222628,18.2706486
+NA,1,34,13147,1,"Employed",1,"30_59",NA,NA,NA,NA,NA,NA,NA,NA,0,3,2,1,4,59.3210547,18.2064433
+NA,1,41,12547,1,"Employed",0,"30_59",NA,NA,NA,NA,NA,NA,NA,NA,1,4,2,4,4,59.2812365,18.0073452
+NA,0,43,12150,1,"Employed",1,"30_59",NA,NA,NA,NA,NA,NA,NA,NA,1,5,5,4,4,59.2956668,18.11203
+NA,1,54,11765,1,"Employed",0,"30_59",NA,NA,NA,NA,NA,NA,NA,NA,1,5,4,4,4,59.31177,18.00501
+NA,0,48,12066,1,"Employed",0,"30_59",NA,NA,NA,NA,NA,NA,NA,NA,1,4,4,3,3,59.3023914,18.1049041
+NA,0,46,12152,1,"Employed",1,"30_59",NA,NA,NA,NA,NA,NA,NA,NA,1,4,5,2,2,59.2939681,18.115711
+NA,1,45,11766,1,"Employed",1,"30_59",1,1,"Own",0,"In areas with low traffic, without separated bike lane",3,1,0,1,5,5,4,4,59.3160232,18.0136192
+NA,0,48,12148,0,"Employed",1,"30_59",1,1,"Other access",0,"In areas with high traffic, without separated bike lane",2,1,1,1,5,5,5,5,59.2933682,18.1012412
+NA,0,51,13147,1,"Employed",1,"30_59",NA,NA,NA,NA,NA,NA,NA,NA,1,5,5,4,3,59.3210547,18.2064433
+NA,1,31,13332,1,"Employed",0,"30_59",NA,NA,NA,NA,NA,NA,NA,NA,1,4,4,4,4,59.2884788,18.2751656
+NA,0,43,12150,1,"Employed",0,"30_59",NA,NA,NA,NA,NA,NA,NA,NA,1,5,5,5,5,59.2956668,18.11203
+NA,1,51,12149,0,"Employed",1,"30_59",NA,NA,NA,NA,NA,NA,NA,NA,1,5,4,4,4,59.2922627,18.1072118
+NA,0,40,13165,0,"Employed",1,"30_59",1,1,"Other access",0,"In areas with low traffic, without separated bike lane",2,1,1,1,3,3,3,4,59.3027207,18.1180071
+NA,1,33,18140,1,"Employed",0,"30_59",NA,NA,NA,NA,NA,NA,NA,NA,1,3,3,3,3,59.3564983,18.156362
+NA,0,34,12030,1,"Employed",0,"30_59",NA,NA,NA,NA,NA,NA,NA,NA,1,5,5,5,5,59.3016723,18.091677
+NA,0,39,12133,1,"Employed",1,"30_59",NA,NA,NA,NA,NA,NA,NA,NA,1,4,4,2,3,59.2831567,18.1025967
+NA,0,55,12070,0,"Employed",0,"30_59",NA,NA,NA,NA,NA,NA,NA,NA,0,4,4,4,4,59.3066778,18.1104574
+NA,1,26,11416,1,"Student",0,"0_29",1,1,"Other access",1,"In areas with low traffic, without separated bike lane",5,1,0,1,5,5,5,5,59.3705597,18.0623122
+NA,1,49,17171,1,"Employed",1,"30_59",1,1,"Own",0,"In areas with high traffic, without separated bike lane",1,1,1,1,4,4,4,5,59.349798,18.0024751
+NA,1,30,11741,1,"Employed",0,"30_59",NA,NA,NA,NA,NA,NA,NA,NA,1,5,5,4,5,59.3148632,18.04416
+NA,0,43,12134,1,"Employed",1,"30_59",NA,NA,NA,NA,NA,NA,NA,NA,1,5,5,5,5,59.2804367,18.1084774
+NA,1,25,12039,0,"Student",0,"0_29",NA,NA,NA,NA,NA,NA,NA,NA,1,4,4,3,3,59.2994366,18.0665741
+NA,0,24,63230,1,"Student",0,"0_29",NA,NA,NA,NA,NA,NA,NA,NA,1,5,5,5,4,NA,NA
+NA,1,31,12248,1,"Employed",0,"30_59",0,0,"No",1,"In areas with high traffic, without separated bike lane",3,1,1,1,4,3,4,5,59.2744346,18.0720798
+NA,1,33,12954,1,"Employed",0,"30_59",0,0,"No",0,"In areas with high traffic, without separated bike lane",1,1,0,1,5,4,4,5,59.283786,17.9571277
+NA,1,25,11423,1,"Employed",0,"0_29",NA,NA,NA,NA,NA,NA,NA,NA,1,4,5,4,5,59.34901,18.06337
+NA,1,25,17164,0,"Student",0,"0_29",NA,NA,NA,NA,NA,NA,NA,NA,1,4,4,4,4,59.3507468,18.0269316
+NA,0,34,11259,1,"Employed",0,"30_59",1,0,"Other access",0,"In areas with high traffic, without separated bike lane",2,1,1,1,5,5,5,5,59.3282692,18.0126628
+NA,1,35,18136,1,"Employed",1,"30_59",NA,NA,NA,NA,NA,NA,NA,NA,1,3,3,4,4,59.3543346,18.1350867
+NA,0,31,12348,1,"Employed",0,"30_59",1,1,"Other access",0,"In areas with high traffic, without separated bike lane",3,1,1,0,3,4,4,3,59.2446817,18.0806241
+NA,0,29,17266,1,"Employed",0,"0_29",NA,NA,NA,NA,NA,NA,NA,NA,0,3,4,3,4,59.358909,17.9654289
+NA,0,41,13136,1,"Employed",0,"30_59",0,0,NA,0,"On separated bike paths",4,1,0,1,4,4,2,2,59.3080536,18.1329849
+NA,0,50,11215,1,"Employed",0,"30_59",1,0,"Other access",1,"On separated bike paths",1,1,0,1,4,2,4,3,59.3388778,18.0032669
+NA,1,34,11346,1,"Employed",1,"30_59",NA,NA,NA,NA,NA,NA,NA,NA,1,4,3,4,4,59.3484385,18.0489785
+NA,1,31,12348,1,"Employed",0,"30_59",NA,NA,NA,NA,NA,NA,NA,NA,1,3,3,3,3,59.2446817,18.0806241
+NA,0,54,12071,1,"Employed",1,"30_59",1,1,"Own",0,"In areas with low traffic, without separated bike lane",0,0,0,1,4,4,4,3,59.3097068,18.1037829
+NA,1,54,12064,0,"Employed",1,"30_59",1,1,"Own",0,"In areas with high traffic, without separated bike lane",0,0,0,1,5,5,5,5,59.3040137,18.0992707
+NA,0,38,13165,1,"Employed",0,"30_59",1,0,"Other access",0,"In areas with low traffic, without separated bike lane",1,1,0,1,5,5,5,5,59.3027207,18.1180071
+NA,0,37,14461,1,"Employed",0,"30_59",NA,NA,NA,NA,NA,NA,NA,NA,0,2,2,1,2,59.1966688,17.7512937
+NA,0,40,11727,1,"Employed",0,"30_59",NA,NA,NA,NA,NA,NA,NA,NA,1,4,4,4,4,59.3182042,18.0473477
+NA,1,37,11346,1,"Employed",1,"30_59",NA,NA,NA,NA,NA,NA,NA,NA,1,4,3,3,4,59.3484385,18.0489785
+NA,0,46,12048,1,"Employed",1,"30_59",NA,NA,NA,NA,NA,NA,NA,NA,1,5,4,4,4,59.288717,18.0723189
+NA,1,33,13934,1,"Employed",0,"30_59",NA,NA,NA,NA,NA,NA,NA,NA,1,5,5,5,5,59.3198791,18.46906
+NA,1,34,12070,1,"Employed",0,"30_59",NA,NA,NA,NA,NA,NA,NA,NA,0,4,4,4,4,59.3066778,18.1104574
+NA,0,42,12078,0,"Employed",0,"30_59",NA,NA,NA,NA,NA,NA,NA,NA,1,3,5,4,5,59.30242,18.0945
+NA,1,26,14152,1,"Employed",0,"0_29",NA,NA,NA,NA,NA,NA,NA,NA,0,4,4,4,4,59.2178104,17.9376187
+NA,1,25,16966,0,"Student",0,"0_29",NA,NA,NA,NA,NA,NA,NA,NA,1,4,4,4,4,59.3625926,18.0134558
+NA,1,31,11417,1,"Employed",0,"30_59",NA,NA,NA,NA,NA,NA,NA,NA,1,4,4,4,3,59.3697011,18.0634601
+NA,0,29,11417,1,"Employed",0,"0_29",NA,NA,NA,NA,NA,NA,NA,NA,1,5,1,4,5,59.3697011,18.0634601
+NA,1,52,12931,1,"Employed",1,"30_59",NA,NA,NA,NA,NA,NA,NA,NA,1,5,5,5,5,59.2927711,17.9828279
+NA,0,31,12933,1,"Employed",0,"30_59",NA,NA,NA,NA,NA,NA,NA,NA,1,4,5,4,4,59.3003965,17.9845609
+NA,0,35,12070,1,"Employed",0,"30_59",1,0,"No",1,"In areas with low traffic, without separated bike lane",2,1,1,0,5,4,4,4,59.3066778,18.1104574
+NA,0,28,12148,1,"Employed",0,"0_29",NA,NA,NA,NA,NA,NA,NA,NA,1,5,3,3,5,59.2933682,18.1012412
+NA,1,36,13165,1,"Employed",0,"30_59",1,0,"Other access",0,"On separated bike paths",0,0,0,1,5,5,5,4,59.3027207,18.1180071
+NA,0,35,12078,1,"Employed",0,"30_59",NA,NA,NA,NA,NA,NA,NA,NA,1,5,5,5,5,59.30242,18.0945
+NA,1,32,12032,1,"Employed",0,"30_59",1,0,"Other access",1,"In areas with high traffic, without separated bike lane",0,0,0,1,4,4,5,4,59.3027487,18.0816689
+NA,0,33,17458,1,"Employed",0,"30_59",NA,NA,NA,NA,NA,NA,NA,NA,1,3,5,3,5,59.3733913,17.9381976
+NA,1,29,12445,1,"Employed",0,"0_29",NA,NA,NA,NA,NA,NA,NA,NA,0,2,5,3,2,NA,NA
+NA,1,33,19138,1,"Employed",0,"30_59",1,1,"Own",0,"In areas with high traffic, without separated bike lane",3,1,0,1,5,5,3,3,59.4020819,17.9823165
+NA,1,38,17155,1,"Employed",1,"30_59",NA,NA,NA,NA,NA,NA,NA,NA,0,4,3,2,3,59.3536219,17.9828025
+NA,0,28,16972,1,"Student",0,"0_29",1,0,"No",0,"In areas with high traffic, without separated bike lane",2,1,0,1,4,4,4,5,59.3678654,18.0158597
+NA,1,27,18250,1,"Employed",0,"0_29",NA,NA,NA,NA,NA,NA,NA,NA,1,5,4,5,5,59.3979951,18.0245611
+NA,NA,31,17171,1,"Employed",0,"30_59",NA,NA,NA,NA,NA,NA,NA,NA,1,4,5,4,4,59.349798,18.0024751
+NA,1,26,17563,1,"Employed",0,"0_29",NA,NA,NA,NA,NA,NA,NA,NA,1,4,5,4,4,59.4026433,17.8679429
+NA,1,27,11417,1,"Employed",0,"0_29",NA,NA,NA,NA,NA,NA,NA,NA,1,5,4,4,4,59.3697011,18.0634601
+NA,0,22,11331,0,"Student",0,"0_29",NA,NA,NA,NA,NA,NA,NA,NA,1,5,5,5,5,59.3452899,18.0397761
+NA,0,26,11428,1,"Employed",0,"0_29",NA,NA,NA,NA,NA,NA,NA,NA,1,5,5,5,5,59.3496859,18.069953
+NA,1,31,12055,1,"Employed",1,"30_59",1,0,"Other access",0,"In areas with high traffic, without separated bike lane",2,1,1,1,5,5,5,5,59.2967226,18.0478279
+NA,1,59,12068,1,"Employed",0,"30_59",NA,NA,NA,NA,NA,NA,NA,NA,1,4,3,2,2,59.3047813,18.1090034
+NA,1,32,12637,1,"Employed",0,"30_59",NA,NA,NA,NA,NA,NA,NA,NA,1,4,3,5,5,59.2979073,17.998966
+NA,1,30,11417,1,"Employed",0,"30_59",NA,NA,NA,NA,NA,NA,NA,NA,1,5,5,3,3,59.3697011,18.0634601
+NA,1,32,11417,1,"Employed",0,"30_59",NA,NA,NA,NA,NA,NA,NA,NA,1,5,5,5,5,59.3697011,18.0634601
+NA,1,32,11423,1,"Student",0,"30_59",0,1,"Own",0,"In areas with high traffic, without separated bike lane",3,1,0,1,5,5,5,5,59.34901,18.06337
+NA,1,29,16559,1,"Employed",0,"0_29",NA,NA,NA,NA,NA,NA,NA,NA,1,5,5,5,3,59.3717623,17.8238668
+NA,0,34,16964,1,"Employed",1,"30_59",NA,NA,NA,NA,NA,NA,NA,NA,1,5,5,5,5,59.36081,18.0142
+NA,0,30,12530,1,"Employed",0,"30_59",0,0,"No",1,"In areas with low traffic, without separated bike lane",2,1,1,0,4,4,2,4,59.2738576,17.9954507
+NA,1,44,12833,1,"Employed",1,"30_59",NA,NA,NA,NA,NA,NA,NA,NA,1,5,5,5,5,59.2675773,18.1298613
+NA,0,35,11765,1,"Employed",0,"30_59",NA,NA,NA,NA,NA,NA,NA,NA,1,4,4,4,4,59.31177,18.00501
+NA,1,35,11765,1,"Employed",0,"30_59",NA,NA,NA,NA,NA,NA,NA,NA,1,5,5,5,5,59.31177,18.00501
+NA,1,30,12350,0,"Employed",0,"30_59",0,0,"No",0,"In areas with high traffic, without separated bike lane",1,1,0,1,5,5,5,5,59.2387609,18.1002558
+NA,0,32,12079,1,"Employed",0,"30_59",1,1,"Own",0,"In areas with low traffic, without separated bike lane",2,1,0,1,4,4,4,3,59.3030659,18.0980964
+NA,1,31,18730,1,"Employed",0,"30_59",NA,NA,NA,NA,NA,NA,NA,NA,1,4,3,3,2,59.4416226,18.0517475
+NA,1,36,11417,1,"Employed",0,"30_59",0,0,"No",1,"In areas with high traffic, without separated bike lane",2,1,0,1,3,3,3,3,59.3697011,18.0634601
+NA,1,30,17070,1,"Employed",0,"30_59",NA,NA,NA,NA,NA,NA,NA,NA,1,2,2,3,3,59.3827398,18.0273498
+NA,1,33,17070,1,"Student",1,"30_59",0,0,"No",1,"On separated bike paths",3,1,0,1,4,4,2,4,59.3827398,18.0273498
+NA,1,32,11364,1,"Employed",0,"30_59",0,0,"No",0,"In areas with high traffic, without separated bike lane",3,1,0,1,1,1,1,1,59.3457716,18.0336478
+NA,0,28,11557,1,"Employed",0,"0_29",1,0,"Other access",0,"In areas with high traffic, without separated bike lane",2,1,0,1,4,4,4,5,59.3487238,18.0944117
+NA,1,35,11417,1,"Student",0,"30_59",NA,NA,NA,NA,NA,NA,NA,NA,0,4,4,4,4,59.3697011,18.0634601
+NA,1,30,11549,1,"Employed",0,"30_59",NA,NA,NA,NA,NA,NA,NA,NA,1,1,2,1,2,59.35302,18.08885
+NA,1,30,12153,1,"Employed",0,"30_59",NA,NA,NA,NA,NA,NA,NA,NA,1,4,4,4,5,59.2894026,18.1197921
+NA,0,34,11767,1,"Employed",0,"30_59",1,0,"Other access",0,"In areas with high traffic, without separated bike lane",2,1,0,1,4,5,5,5,59.3159973,18.0102781
+NA,1,28,16972,1,"Employed",0,"0_29",NA,NA,NA,NA,NA,NA,NA,NA,1,4,4,4,4,59.3678654,18.0158597
+NA,1,29,14575,1,"Student",0,"0_29",1,1,"Other access",0,"In areas with low traffic, without separated bike lane",0,0,1,1,3,5,4,4,59.24974,17.8271
+NA,1,22,17070,0,"Student",0,"0_29",1,0,"No",0,"In areas with high traffic, without separated bike lane",0,0,0,1,5,5,5,5,59.3827398,18.0273498
+NA,1,27,17070,1,"Employed",0,"0_29",0,0,"No",0,"In areas with high traffic, without separated bike lane",0,0,0,1,4,4,4,5,59.3827398,18.0273498
+NA,1,29,18132,1,"Student",0,"0_29",NA,NA,NA,NA,NA,NA,NA,NA,1,4,4,3,4,59.3621996,18.1337609
+NA,0,32,12430,1,"Employed",0,"30_59",1,0,"No",1,"In areas with high traffic, without separated bike lane",0,0,1,1,4,4,4,4,59.266085,18.058222
+NA,1,24,17070,1,"Student",0,"0_29",1,0,"No",0,"In areas with high traffic, without separated bike lane",2,1,0,1,5,5,5,5,59.3827398,18.0273498
+NA,0,54,12058,1,"Employed",0,"30_59",1,1,"Other access",0,"In areas with low traffic, without separated bike lane",1,1,0,0,3,4,4,4,59.300134,18.0441977
+NA,0,35,17067,1,"Employed",0,"30_59",1,0,"Other access",1,"In areas with low traffic, without separated bike lane",1,1,1,0,2,4,2,2,59.381111,18.0035866
+NA,1,34,16963,1,"Employed",0,"30_59",NA,NA,NA,NA,NA,NA,NA,NA,1,4,4,4,4,59.36176,18.01046
+NA,1,27,17172,1,"Employed",0,"0_29",NA,NA,NA,NA,NA,NA,NA,NA,1,5,5,5,5,59.3477366,18.0010416
+NA,1,29,17070,1,"Student",0,"0_29",1,0,"No",1,"In areas with high traffic, without separated bike lane",1,1,0,1,4,4,4,3,59.3827398,18.0273498
+NA,1,28,17165,1,"Employed",0,"0_29",NA,NA,NA,NA,NA,NA,NA,NA,1,4,5,5,5,59.3509267,18.0212432
+NA,1,30,17240,1,"Employed",0,"30_59",1,1,"Other access",1,"In areas with high traffic, without separated bike lane",2,1,1,1,4,4,2,2,59.3669328,17.9765475
+NA,0,29,17165,1,"Employed",0,"0_29",NA,NA,NA,NA,NA,NA,NA,NA,1,5,5,4,5,59.3509267,18.0212432
+NA,1,27,12743,1,"Employed",0,"0_29",NA,NA,NA,NA,NA,NA,NA,NA,1,2,4,2,3,59.2731997,17.8889582
+NA,0,25,11417,1,"Student",0,"0_29",1,0,"No",0,"In areas with low traffic, without separated bike lane",3,1,0,1,5,5,5,5,59.3697011,18.0634601
+NA,1,28,12341,1,"Student",0,"0_29",1,0,"Other access",0,"In areas with high traffic, without separated bike lane",3,1,0,1,4,5,4,5,59.2434495,18.0967101
+NA,0,31,16960,1,"Employed",0,"30_59",NA,NA,NA,NA,NA,NA,NA,NA,1,5,5,4,4,59.3599156,18.0093391
+NA,0,28,13135,1,"Employed",0,"0_29",NA,NA,NA,NA,NA,NA,NA,NA,1,4,5,5,5,59.3073779,18.124117
+NA,1,31,11755,1,"Employed",0,"30_59",NA,NA,NA,NA,NA,NA,NA,NA,1,4,5,4,5,59.3015065,18.0244397
+NA,1,26,11830,1,"Student",0,"0_29",NA,NA,NA,NA,NA,NA,NA,NA,1,5,5,5,5,59.3116831,18.073434
+NA,1,43,12834,1,"Employed",0,"30_59",1,0,"No",0,"In areas with high traffic, without separated bike lane",2,1,0,1,5,5,5,5,59.2652174,18.1266857
+NA,1,28,12139,1,"Employed",0,"0_29",NA,NA,NA,NA,NA,NA,NA,NA,1,5,5,5,5,59.2925238,18.1025162
+NA,0,25,16839,1,"Employed",0,"0_29",1,0,"No",0,"In areas with high traffic, without separated bike lane",2,1,0,1,5,5,5,5,59.3334656,17.921173
+NA,1,26,13141,1,"Employed",0,"0_29",NA,NA,NA,NA,NA,NA,NA,NA,1,5,5,5,5,59.3048945,18.1685845
+NA,1,46,16843,1,"Employed",1,"30_59",1,0,"No",0,"In areas with high traffic, without separated bike lane",2,1,0,1,5,5,5,5,59.34392,17.8812
+NA,1,76,11851,1,"Unemployed",1,"60a",NA,NA,NA,NA,NA,NA,NA,NA,1,5,3,2,3,59.3175821,18.0587988
+NA,1,37,11866,1,"Student",0,"30_59",1,0,"Other access",0,"In areas with high traffic, without separated bike lane",1,1,0,0,4,4,4,4,59.3121911,18.0644108
+NA,1,47,12639,1,"Employed",1,"30_59",1,0,"Other access",0,"In areas with high traffic, without separated bike lane",1,1,0,1,5,4,4,4,59.2855071,18.0139319
+NA,0,56,12264,1,"Employed",1,"30_59",1,1,"Own",0,"In areas with low traffic, without separated bike lane",2,1,0,1,5,4,3,4,59.2771697,18.058683
+NA,1,30,12930,1,"Employed",0,"30_59",1,0,"Other access",0,"In areas with high traffic, without separated bike lane",2,1,1,1,5,5,4,4,59.29445,17.98561
+NA,1,29,12148,1,"Employed",0,"0_29",NA,NA,NA,NA,NA,NA,NA,NA,0,5,5,2,4,59.2933682,18.1012412
+NA,1,39,12058,1,"Employed",1,"30_59",1,0,"Other access",0,"In areas with high traffic, without separated bike lane",2,1,0,1,5,5,5,5,59.300134,18.0441977
+NA,0,11,12068,1,"Student",0,"0_29",NA,NA,NA,NA,NA,NA,NA,NA,0,4,5,4,4,59.3047813,18.1090034
+NA,1,49,14144,0,"Employed",1,"30_59",1,1,"Own",0,"In areas with low traffic, without separated bike lane",0,0,1,1,4,5,4,3,59.2330667,17.9603953
+NA,1,25,17168,1,"Student",0,"0_29",1,1,"Own",1,"In areas with low traffic, without separated bike lane",2,1,0,1,5,5,4,5,59.3583326,18.0002334
+NA,1,30,11830,1,"Student",0,"30_59",0,0,"No",1,"In areas with low traffic, without separated bike lane",1,1,1,0,5,4,4,4,59.3116831,18.073434
+NA,1,26,12153,1,"Student",0,"0_29",1,0,"No",0,"In areas with high traffic, without separated bike lane",1,1,1,1,4,4,4,4,59.2894026,18.1197921
+NA,1,33,17442,1,"Employed",0,"30_59",1,1,"Other access",0,"In areas with high traffic, without separated bike lane",1,1,1,1,4,4,4,4,59.37234,17.97907
+NA,0,42,12638,1,"Employed",0,"30_59",NA,NA,NA,NA,NA,NA,NA,NA,1,5,5,4,4,59.2940274,17.9926309
+NA,0,52,12940,1,"Employed",1,"30_59",NA,NA,NA,NA,NA,NA,NA,NA,1,5,5,5,5,59.3026522,17.9475965
+NA,1,34,12636,1,"Employed",0,"30_59",1,1,"Own",0,"In areas with high traffic, without separated bike lane",2,1,0,1,3,5,4,4,59.3015119,17.9991974
+NA,NA,29,11542,1,"Student",0,"0_29",1,0,"No",0,"In areas with low traffic, without separated bike lane",1,1,0,1,3,3,3,4,59.3574658,18.0916489
+NA,1,47,13140,1,"Employed",1,"30_59",NA,NA,NA,NA,NA,NA,NA,NA,1,5,5,5,4,59.3131287,18.1531168
+NA,1,27,11417,1,"Employed",0,"0_29",1,0,"No",0,"In areas with low traffic, without separated bike lane",4,1,1,1,4,4,4,4,59.3697011,18.0634601
+NA,1,37,17069,1,"Employed",1,"30_59",1,1,"Own",0,"In areas with high traffic, without separated bike lane",2,1,0,1,5,5,4,4,59.394756,18.0324893
+NA,0,48,17569,1,"Employed",1,"30_59",NA,NA,NA,NA,NA,NA,NA,NA,0,1,1,1,1,59.39834,17.87001
+NA,0,49,12457,1,"Employed",1,"30_59",0,1,"Own",0,"In areas with high traffic, without separated bike lane",0,0,1,1,4,5,4,4,59.2609282,18.0485367
+NA,0,27,18150,1,"Employed",0,"0_29",1,0,"No",1,NA,1,1,0,0,3,4,3,3,59.3622958,18.1231874
+NA,1,47,11732,1,"Employed",1,"30_59",NA,NA,NA,NA,NA,NA,NA,NA,1,5,5,3,5,59.3190825,18.0354278
+NA,0,55,11731,1,"Employed",1,"30_59",1,1,"Other access",0,"In areas with high traffic, without separated bike lane",5,1,0,1,3,3,3,5,59.3183754,18.0352304
+NA,1,40,16373,1,"Employed",1,"30_59",NA,NA,NA,NA,NA,NA,NA,NA,0,4,4,4,3,59.388194,17.9289325
+NA,1,39,17074,1,"Employed",0,"30_59",NA,NA,NA,NA,NA,NA,NA,NA,1,5,5,5,4,59.3781205,18.0413392
+NA,NA,36,18147,1,"Employed",1,"30_59",1,1,"Other access",0,"On separated bike paths",1,1,1,1,3,3,3,4,59.372097,18.1780133
+NA,1,34,17157,1,"Employed",0,"30_59",1,0,"No",0,"In areas with high traffic, without separated bike lane",2,1,1,1,2,4,2,3,59.347854,17.9904836
+NA,0,53,13551,1,"Employed",1,"30_59",1,1,"Other access",0,"In areas with high traffic, without separated bike lane",2,1,1,1,4,5,5,5,59.2219823,18.2098166
+NA,1,65,12831,0,"Employed",0,"60a",1,1,"Own",0,"In areas with high traffic, without separated bike lane",1,1,1,1,5,5,4,4,59.2666537,18.1433044
+NA,1,67,11538,1,"Employed",0,"60a",1,0,"Other access",0,"In areas with high traffic, without separated bike lane",2,1,0,1,5,5,5,5,59.34608,18.10274
+NA,0,31,17157,1,"Employed",0,"30_59",0,0,"No",0,"In areas with low traffic, without separated bike lane",2,1,0,1,5,3,4,4,59.347854,17.9904836
+NA,1,50,19278,0,"Employed",0,"30_59",1,1,"Other access",1,"In areas with high traffic, without separated bike lane",0,0,1,1,3,3,2,3,59.4830996,17.9174841
+NA,0,36,13648,1,"Employed",0,"30_59",1,1,"Own",1,"In areas with high traffic, without separated bike lane",4,1,1,1,4,5,5,5,59.178982,18.1266957
+NA,0,27,13145,1,"Employed",0,"0_29",NA,NA,NA,NA,NA,NA,NA,NA,0,1,4,3,2,59.3150508,18.1969328
+NA,1,63,16969,0,"Employed",0,"60a",1,1,"Own",0,"In areas with high traffic, without separated bike lane",1,1,0,1,5,5,4,3,59.3629191,18.0184378
+NA,1,42,11557,1,"Employed",0,"30_59",1,1,"Own",0,"In areas with high traffic, without separated bike lane",1,1,0,1,4,4,4,4,59.3487238,18.0944117
+NA,1,30,11417,1,"Employed",0,"30_59",1,0,"No",0,"In areas with high traffic, without separated bike lane",2,1,0,1,5,5,5,5,59.3697011,18.0634601
+NA,1,36,11448,1,"Employed",0,"30_59",1,0,"No",0,"In areas with high traffic, without separated bike lane",1,1,0,1,5,5,4,5,59.3383525,18.0807766
+NA,1,51,11750,1,"Employed",1,"30_59",1,1,"Own",0,"On separated bike paths",1,1,0,1,4,4,4,4,59.31944,18.02072
+NA,1,47,11771,1,"Employed",0,"30_59",1,0,"No",0,"In areas with high traffic, without separated bike lane",1,1,0,1,4,5,5,2,59.3164866,17.9978431
+NA,1,65,14771,1,"Employed",1,"60a",1,1,"Own",0,"In areas with low traffic, without separated bike lane",5,1,1,1,4,4,4,4,59.1643742,17.803773
+NA,1,29,11543,1,"Employed",0,"0_29",1,0,"No",0,"In areas with low traffic, without separated bike lane",4,1,0,0,4,4,4,4,59.3534031,18.0938485
+NA,1,47,11458,1,"Employed",0,"30_59",1,1,"Own",0,"In areas with low traffic, without separated bike lane",1,1,0,1,4,4,4,4,59.3373014,18.0868613
+NA,0,27,11416,1,"Student",0,"0_29",NA,NA,NA,NA,NA,NA,NA,NA,1,3,4,3,3,59.3705597,18.0623122
+NA,1,50,16344,1,"Employed",1,"30_59",1,1,"Own",0,"In areas with low traffic, without separated bike lane",2,1,1,1,3,4,4,4,59.3703868,17.9168013
+NA,0,42,11828,1,"Employed",0,"30_59",0,0,"No",0,"In areas with high traffic, without separated bike lane",0,0,0,1,5,5,5,5,59.3145133,18.0697519
+NA,1,43,13732,1,"Employed",1,"30_59",0,0,"No",1,"In areas with high traffic, without separated bike lane",3,1,1,1,4,4,4,4,59.1305269,18.1029234
+NA,1,35,12340,0,"Employed",0,"30_59",1,0,"Other access",1,"In areas with high traffic, without separated bike lane",2,1,0,1,4,5,5,5,59.24661,18.10118
+NA,1,40,12250,1,"Employed",1,"30_59",1,1,"Own",0,"In areas with low traffic, without separated bike lane",2,1,1,1,5,5,5,4,59.29248,18.08102
+NA,1,48,12844,1,"Employed",1,"30_59",1,0,"No",0,"On separated bike paths",1,1,1,1,5,5,4,5,59.27162,18.13949
+NA,1,36,11547,1,"Employed",1,"30_59",1,1,"Own",0,"In areas with high traffic, without separated bike lane",5,1,0,1,3,3,3,2,59.3585709,18.0896161
+NA,1,49,18746,1,"Employed",1,"30_59",1,1,"Own",0,"In areas with low traffic, without separated bike lane",3,1,1,1,5,5,5,5,59.45113,18.02744
+NA,0,30,11417,1,"Student",0,"30_59",0,0,"No",0,"In areas with low traffic, without separated bike lane",2,1,0,1,4,5,4,5,59.3697011,18.0634601
+NA,0,28,11415,1,"Student",0,"0_29",NA,NA,NA,NA,NA,NA,NA,NA,0,2,2,2,4,59.3708694,18.0620909
+NA,1,67,16562,1,"Employed",0,"60a",NA,NA,NA,NA,NA,NA,NA,NA,1,4,3,3,3,59.3588976,17.836498
+NA,0,29,13365,1,"Employed",0,"0_29",NA,NA,NA,NA,NA,NA,NA,NA,1,5,5,5,5,NA,NA
+NA,0,37,17155,1,"Employed",1,"30_59",NA,NA,NA,NA,NA,NA,NA,NA,1,4,4,4,4,59.3536219,17.9828025
+NA,0,60,16871,1,"Employed",0,"60a",1,1,"Own",1,"On separated bike paths",3,1,0,1,4,4,4,4,59.3634888,17.9485262
+NA,1,25,11428,1,"Student",0,"0_29",NA,NA,NA,NA,NA,NA,NA,NA,1,5,5,5,5,59.3496859,18.069953
+NA,1,51,13658,1,"Employed",1,"30_59",1,0,"No",0,"In areas with high traffic, without separated bike lane",2,1,1,1,5,5,5,5,59.1831562,18.1264393
+NA,1,44,11647,1,"Employed",1,"30_59",NA,NA,NA,NA,NA,NA,NA,NA,1,4,4,4,4,59.3086259,18.0972451
+NA,0,40,13172,1,"Employed",0,"30_59",1,0,"Other access",0,"In areas with low traffic, without separated bike lane",1,1,1,0,4,4,4,4,59.315223,18.1206097
+NA,0,45,13133,1,"Employed",1,"30_59",1,0,"No",0,"In areas with high traffic, without separated bike lane",1,1,0,1,5,5,4,5,59.2900452,18.1665801
+NA,1,41,13172,1,"Employed",0,"30_59",1,0,"Other access",0,"In areas with high traffic, without separated bike lane",2,1,0,1,5,5,5,5,59.315223,18.1206097
