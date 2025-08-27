@@ -31,6 +31,7 @@ pac <- df_access[ , c("q10_easy",
 corr.test(pac)
 psych::describe(pac)
 psych::alpha(pac)
+KMO(pac)
 
 
 ### CFA
@@ -362,12 +363,31 @@ chisq.test(contingency_table[,,2], correct = FALSE)
 
 
 # Binomial logistic regression -----------------------------------------------------
-model <- glm(bike_frequency_bin ~ PAC_factor, data = df_access, family = binomial)
-summary(model)
+model1 <- glm(bike_frequency_bin ~ PAC_factor, data = df_access, family = binomial)
+summary(model1)
 
 # Odds ratios with 95% CI
-exp_coef <- exp(cbind(OR = coef(model), confint(model)))
+exp_coef <- exp(cbind(OR = coef(model1), confint(model1)))
 print(round(exp_coef, 3))
 
 # McFadden R²
-pR2(model)
+pR2(model1)
+
+# Binomial logistic regression -----------------------------------------------------
+# Recode age_group into two categories: <30 vs 30+
+df_access$age_group2 <- ifelse(df_access$age_group == "0_29", "0_29", "30plus")
+
+# Make it a factor with 0_29 as the reference
+df_access$age_group2 <- factor(df_access$age_group2, levels = c("0_29", "30plus"))
+
+model2 <- glm(bike_frequency_bin ~ PAC_factor + gender + education + age_group2 + living_children + car_household_bin + driving_license 
+                                              + sl_card + cycle_confidence + commute_lenght_bin + peer_commute + high_low_ratio + dens_shops + dens_amenity + dens_leisure + dens_office,
+                                              data = df_access, family = binomial)
+summary(model2)
+
+# Odds ratios with 95% CI
+exp_coef <- exp(cbind(OR = coef(model2), confint(model2)))
+print(round(exp_coef, 3))
+
+# McFadden R²
+pR2(model2)
